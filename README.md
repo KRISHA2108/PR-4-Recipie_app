@@ -4,8 +4,12 @@ A new Flutter project.
 
 ## OUTPUT:
 
-### ScreenShorts:
+### Preview :
 
+https://github.com/user-attachments/assets/b813ef8d-d393-474d-beba-8cfabded19ee
+
+
+### ScreenShorts:
 
 ![WhatsApp Image 2024-07-17 at 11 41 08_6f1d01af](https://github.com/user-attachments/assets/4238f4c4-0f9a-4727-bcbf-f5177e94dfc3)
 
